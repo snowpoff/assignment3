@@ -14,7 +14,7 @@ functions:
   delete: assignment3-test-delete
 ```
 
-upload a file by running upload.js <file path> (i did it in windows cmd, eg >node upload.js images/drawing.png)
+upload a file by running `upload.js <file path>` (i did it in windows cmd, eg >node upload.js images/drawing.png)
 
 this should return something like 
 ```
